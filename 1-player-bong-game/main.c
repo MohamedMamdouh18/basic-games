@@ -54,7 +54,7 @@ int window_initialize()
     if (SDL_Init(SDL_INIT_EVERYTHING) != 0)
     {
         fprintf(stderr , "Error in SDL initializing \n") ;
-        return  ;
+        return false ;
     }
     SDL_Init(SDL_INIT_EVERYTHING) ;
 
@@ -63,13 +63,13 @@ int window_initialize()
     if (!(window))
     {
         fprintf(stderr , "Error in making window\n") ;
-        return  ;
+        return false ;
     }
     renderer = SDL_CreateRenderer(window , -1 , 0) ;
     if(!(renderer))
     {
         fprintf(stderr , "Error in creating renderer\n");
-        return  ;
+        return false ;
     }
     return true ;
 }
