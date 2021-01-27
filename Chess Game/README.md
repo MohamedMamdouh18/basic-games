@@ -115,3 +115,7 @@ choice.
 **(setup_exit_menu – input_exit_menu – render_exit_menu)**
 
 These functions are in charge of appearing the exit menu and take input from player if he wants to exit with save or not or continue playing.
+
+![Image of Yaktocat](https://github.com/MohamedMamdouh18/basic-games/blob/main/Chess%20Game/Capture1.PNG)
+![Image of Yaktocat](https://github.com/MohamedMamdouh18/basic-games/blob/main/Chess%20Game/Capture2.PNG)
+
