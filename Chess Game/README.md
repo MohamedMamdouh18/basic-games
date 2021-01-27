@@ -1,4 +1,4 @@
-Description of the application (the features): <h2>
+<h2>Description of the application (the features): 
 
 1.	Dead table: At the right side of the game window there is a table that calculate the number of beaten pieces.
 
