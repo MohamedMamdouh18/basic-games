@@ -13,3 +13,5 @@ the game has small glitch that if you are moving up fast the ball will pass you 
 i used SDL2 library and C language -
 
 Enjoy 
+
+![Image of Yaktocat](https://github.com/MohamedMamdouh18/basic-games/blob/main/1-player-bong-game/Capture.PNG)
