@@ -1,3 +1,6 @@
+//Author : Mohamed Mamdouh Rashad Ali
+//Date : 21/1/2021
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
